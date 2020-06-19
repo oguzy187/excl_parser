@@ -1,0 +1,2524 @@
+{
+                                cells: {
+                                    'r2c1': {
+                                        val: `Fruchtartenrechner\nSAATEN-UNION`,
+                                        excl_cell: `A2`,
+                                        formula: ``
+                                    },
+                                    'r2c3': {
+                                        val: `Fruchtfolgestellung`,
+                                        excl_cell: `C2`,
+                                        formula: ``
+                                    },
+                                    'r2c10': {
+                                        val: `Direktkosten`,
+                                        excl_cell: `J2`,
+                                        formula: ``
+                                    },
+                                    'r2c17': {
+                                        val: `Arbeitskosten`,
+                                        excl_cell: `Q2`,
+                                        formula: ``
+                                    },
+                                    'r2c19': {
+                                        val: `Preiserwartung`,
+                                        excl_cell: `S2`,
+                                        formula: ``
+                                    },
+                                    'r2c20': {
+                                        val: `Ertragserwartung`,
+                                        excl_cell: `T2`,
+                                        formula: ``
+                                    },
+                                    'r2c21': {
+                                        val: ``,
+                                        excl_cell: `U2`,
+                                        formula: ``
+                                    },
+                                    'r2c22': {
+                                        val: `Marktleistung`,
+                                        excl_cell: `V2`,
+                                        formula: ``
+                                    },
+                                    'r2c24': {
+                                        val: `Fruchtfolgewert`,
+                                        excl_cell: `X2`,
+                                        formula: ``
+                                    },
+                                    'r2c25': {
+                                        val: `Gekoppelte Prämie`,
+                                        excl_cell: `Y2`,
+                                        formula: ``
+                                    },
+                                    'r2c29': {
+                                        val: `Direkt- und arbeits-kostenfreie Leistung`,
+                                        excl_cell: `AC2`,
+                                        formula: ``
+                                    },
+                                    'r2c32': {
+                                        val: `Gleichgewichts-\nertrag`,
+                                        excl_cell: `AF2`,
+                                        formula: ``
+                                    },
+                                    'r2c33': {
+                                        val: `Gleichgewichts-\npreis`,
+                                        excl_cell: `AG2`,
+                                        formula: ``
+                                    },
+                                    'r2c59': {
+                                        val: ``,
+                                        excl_cell: `AAG2`,
+                                        formula: ``
+                                    },
+                                    'r3c1': {
+                                        val: ``,
+                                        excl_cell: `A3`,
+                                        formula: ``
+                                    },
+                                    'r3c3': {
+                                        val: ``,
+                                        excl_cell: `C3`,
+                                        formula: ``
+                                    },
+                                    'r3c10': {
+                                        val: `€/ha`,
+                                        excl_cell: `J3`,
+                                        formula: ``
+                                    },
+                                    'r3c17': {
+                                        val: `€/ha`,
+                                        excl_cell: `Q3`,
+                                        formula: ``
+                                    },
+                                    'r3c19': {
+                                        val: `€/dt`,
+                                        excl_cell: `S3`,
+                                        formula: ``
+                                    },
+                                    'r3c20': {
+                                        val: `dt/ha`,
+                                        excl_cell: `T3`,
+                                        formula: ``
+                                    },
+                                    'r3c21': {
+                                        val: `Fakt.`,
+                                        excl_cell: `U3`,
+                                        formula: ``
+                                    },
+                                    'r3c22': {
+                                        val: `€/ha`,
+                                        excl_cell: `V3`,
+                                        formula: ``
+                                    },
+                                    'r3c24': {
+                                        val: `€/ha`,
+                                        excl_cell: `X3`,
+                                        formula: ``
+                                    },
+                                    'r3c25': {
+                                        val: `€/ha`,
+                                        excl_cell: `Y3`,
+                                        formula: ``
+                                    },
+                                    'r3c29': {
+                                        val: `€/ha`,
+                                        excl_cell: `AC3`,
+                                        formula: ``
+                                    },
+                                    'r3c32': {
+                                        val: `dt/ha`,
+                                        excl_cell: `AF3`,
+                                        formula: ``
+                                    },
+                                    'r3c33': {
+                                        val: `€/dt`,
+                                        excl_cell: `AG3`,
+                                        formula: ``
+                                    },
+                                    'r3c59': {
+                                        val: ``,
+                                        excl_cell: `AAG3`,
+                                        formula: ``
+                                    },
+                                    'r4c1': {
+                                        val: `Körnermais`,
+                                        excl_cell: `A4`,
+                                        formula: ``
+                                    },
+                                    'r4c3': {
+                                        val: `A`,
+                                        excl_cell: `C4`,
+                                        formula: ``
+                                    },
+                                    'r4c10': {
+                                        val: `678.8954285`,
+                                        excl_cell: `J4`,
+                                        formula: `SUM(D4,F4,G4,I4)`
+                                    },
+                                    'r4c17': {
+                                        val: `935`,
+                                        excl_cell: `Q4`,
+                                        formula: `SUM(K4,M4,O4)`
+                                    },
+                                    'r4c19': {
+                                        val: `18,80`,
+                                        excl_cell: `S4`,
+                                        formula: `S18+0.8`
+                                    },
+                                    'r4c20': {
+                                        val: `115,0`,
+                                        excl_cell: `T4`,
+                                        formula: `T18*U4`
+                                    },
+                                    'r4c21': {
+                                        val: `1,353`,
+                                        excl_cell: `U4`,
+                                        formula: ``
+                                    },
+                                    'r4c22': {
+                                        val: `2.162`,
+                                        excl_cell: `V4`,
+                                        formula: `S4*T4`
+                                    },
+                                    'r4c24': {
+                                        val: `40`,
+                                        excl_cell: `X4`,
+                                        formula: ``
+                                    },
+                                    'r4c25': {
+                                        val: `0`,
+                                        excl_cell: `Y4`,
+                                        formula: ``
+                                    },
+                                    'r4c29': {
+                                        val: `588.4485715000001`,
+                                        excl_cell: `AC4`,
+                                        formula: `V4+Y4-J4-Q4+X4`
+                                    },
+                                    'r4c32': {
+                                        val: `94.20050151595744`,
+                                        excl_cell: `AF4`,
+                                        formula: `(AC41+J4+Q4-X4)/S4`
+                                    },
+                                    'r4c33': {
+                                        val: `15.39906463632016`,
+                                        excl_cell: `AG4`,
+                                        formula: `(AC41+J4+Q4-X4)/T4`
+                                    },
+                                    'r4c59': {
+                                        val: ``,
+                                        excl_cell: `AAG4`,
+                                        formula: ``
+                                    },
+                                    'r5c1': {
+                                        val: `Wi-Raps`,
+                                        excl_cell: `A5`,
+                                        formula: ``
+                                    },
+                                    'r5c3': {
+                                        val: `A`,
+                                        excl_cell: `C5`,
+                                        formula: ``
+                                    },
+                                    'r5c10': {
+                                        val: `609.6610145249999`,
+                                        excl_cell: `J5`,
+                                        formula: `SUM(D5,F5,G5,I5)`
+                                    },
+                                    'r5c17': {
+                                        val: `515`,
+                                        excl_cell: `Q5`,
+                                        formula: `SUM(K5,M5,O5)`
+                                    },
+                                    'r5c19': {
+                                        val: `39,60`,
+                                        excl_cell: `S5`,
+                                        formula: `S18*2.2`
+                                    },
+                                    'r5c20': {
+                                        val: `36,1`,
+                                        excl_cell: `T5`,
+                                        formula: `T18*U5`
+                                    },
+                                    'r5c21': {
+                                        val: `0,424`,
+                                        excl_cell: `U5`,
+                                        formula: ``
+                                    },
+                                    'r5c22': {
+                                        val: `1.429`,
+                                        excl_cell: `V5`,
+                                        formula: `S5*T5`
+                                    },
+                                    'r5c24': {
+                                        val: `120`,
+                                        excl_cell: `X5`,
+                                        formula: ``
+                                    },
+                                    'r5c25': {
+                                        val: `0`,
+                                        excl_cell: `Y5`,
+                                        formula: ``
+                                    },
+                                    'r5c29': {
+                                        val: `424.7925854750001`,
+                                        excl_cell: `AC5`,
+                                        formula: `V5+Y5-J5-Q5+X5`
+                                    },
+                                    'r5c32': {
+                                        val: `30.346843801136355`,
+                                        excl_cell: `AF5`,
+                                        formula: `(AC41+J5+Q5-X5)/S5`
+                                    },
+                                    'r5c33': {
+                                        val: `33.29735985494998`,
+                                        excl_cell: `AG5`,
+                                        formula: `(AC41+J5+Q5-X5)/T5`
+                                    },
+                                    'r5c59': {
+                                        val: ``,
+                                        excl_cell: `AAG5`,
+                                        formula: ``
+                                    },
+                                    'r6c1': {
+                                        val: `Sojabohne`,
+                                        excl_cell: `A6`,
+                                        formula: ``
+                                    },
+                                    'r6c3': {
+                                        val: `A`,
+                                        excl_cell: `C6`,
+                                        formula: ``
+                                    },
+                                    'r6c10': {
+                                        val: `531.14724655`,
+                                        excl_cell: `J6`,
+                                        formula: `SUM(D6,F6,G6,I6)`
+                                    },
+                                    'r6c17': {
+                                        val: `512`,
+                                        excl_cell: `Q6`,
+                                        formula: `SUM(K6,M6,O6)`
+                                    },
+                                    'r6c19': {
+                                        val: `42,73`,
+                                        excl_cell: `S6`,
+                                        formula: `S18*2.374`
+                                    },
+                                    'r6c20': {
+                                        val: `30,2`,
+                                        excl_cell: `T6`,
+                                        formula: `T18*U6`
+                                    },
+                                    'r6c21': {
+                                        val: `0,355`,
+                                        excl_cell: `U6`,
+                                        formula: ``
+                                    },
+                                    'r6c22': {
+                                        val: `1.289`,
+                                        excl_cell: `V6`,
+                                        formula: `S6*T6`
+                                    },
+                                    'r6c24': {
+                                        val: `80`,
+                                        excl_cell: `X6`,
+                                        formula: ``
+                                    },
+                                    'r6c25': {
+                                        val: `0`,
+                                        excl_cell: `Y6`,
+                                        formula: ``
+                                    },
+                                    'r6c29': {
+                                        val: `326.7908534499999`,
+                                        excl_cell: `AC6`,
+                                        formula: `V6+Y6-J6-Q6+X6`
+                                    },
+                                    'r6c32': {
+                                        val: `27.145259911775717`,
+                                        excl_cell: `AF6`,
+                                        formula: `(AC41+J6+Q6-X6)/S6`
+                                    },
+                                    'r6c33': {
+                                        val: `38.441466331400164`,
+                                        excl_cell: `AG6`,
+                                        formula: `(AC41+J6+Q6-X6)/T6`
+                                    },
+                                    'r6c59': {
+                                        val: ``,
+                                        excl_cell: `AAG6`,
+                                        formula: ``
+                                    },
+                                    'r7c1': {
+                                        val: `Zuckerrübe`,
+                                        excl_cell: `A7`,
+                                        formula: ``
+                                    },
+                                    'r7c3': {
+                                        val: `A`,
+                                        excl_cell: `C7`,
+                                        formula: ``
+                                    },
+                                    'r7c10': {
+                                        val: `1164.267940125`,
+                                        excl_cell: `J7`,
+                                        formula: `SUM(D7,F7,G7,I7)`
+                                    },
+                                    'r7c17': {
+                                        val: `620`,
+                                        excl_cell: `Q7`,
+                                        formula: `SUM(K7,M7,O7)`
+                                    },
+                                    'r7c19': {
+                                        val: `2,79`,
+                                        excl_cell: `S7`,
+                                        formula: `S18*0.155`
+                                    },
+                                    'r7c20': {
+                                        val: `775,0`,
+                                        excl_cell: `T7`,
+                                        formula: `T18*U7`
+                                    },
+                                    'r7c21': {
+                                        val: `9,12`,
+                                        excl_cell: `U7`,
+                                        formula: ``
+                                    },
+                                    'r7c22': {
+                                        val: `2.162`,
+                                        excl_cell: `V7`,
+                                        formula: `S7*T7`
+                                    },
+                                    'r7c24': {
+                                        val: `-60`,
+                                        excl_cell: `X7`,
+                                        formula: ``
+                                    },
+                                    'r7c25': {
+                                        val: `0`,
+                                        excl_cell: `Y7`,
+                                        formula: ``
+                                    },
+                                    'r7c29': {
+                                        val: `318.31575987500014`,
+                                        excl_cell: `AC7`,
+                                        formula: `V7+Y7-J7-Q7+X7`
+                                    },
+                                    'r7c32': {
+                                        val: `731.6637778225805`,
+                                        excl_cell: `AF7`,
+                                        formula: `(AC41+J7+Q7-X7)/S7`
+                                    },
+                                    'r7c33': {
+                                        val: `2.6338876432202625`,
+                                        excl_cell: `AG7`,
+                                        formula: `(AC41+J7+Q7-X7)/T7`
+                                    },
+                                    'r7c59': {
+                                        val: ``,
+                                        excl_cell: `AAG7`,
+                                        formula: ``
+                                    },
+                                    'r10c1': {
+                                        val: `Körnererbse`,
+                                        excl_cell: `A10`,
+                                        formula: ``
+                                    },
+                                    'r10c3': {
+                                        val: `A`,
+                                        excl_cell: `C10`,
+                                        formula: ``
+                                    },
+                                    'r10c10': {
+                                        val: `334.94275625`,
+                                        excl_cell: `J10`,
+                                        formula: `SUM(D10,F10,G10,I10)`
+                                    },
+                                    'r10c17': {
+                                        val: `500`,
+                                        excl_cell: `Q10`,
+                                        formula: `SUM(K10,M10,O10)`
+                                    },
+                                    'r10c19': {
+                                        val: `22,14`,
+                                        excl_cell: `S10`,
+                                        formula: `S18*1.23`
+                                    },
+                                    'r10c20': {
+                                        val: `42,5`,
+                                        excl_cell: `T10`,
+                                        formula: `T18*U10`
+                                    },
+                                    'r10c21': {
+                                        val: `0,500`,
+                                        excl_cell: `U10`,
+                                        formula: ``
+                                    },
+                                    'r10c22': {
+                                        val: `941`,
+                                        excl_cell: `V10`,
+                                        formula: `S10*T10`
+                                    },
+                                    'r10c24': {
+                                        val: `160`,
+                                        excl_cell: `X10`,
+                                        formula: ``
+                                    },
+                                    'r10c25': {
+                                        val: `0`,
+                                        excl_cell: `Y10`,
+                                        formula: ``
+                                    },
+                                    'r10c29': {
+                                        val: `265.93224375000005`,
+                                        excl_cell: `AC10`,
+                                        formula: `V10+Y10-J10-Q10+X10`
+                                    },
+                                    'r10c32': {
+                                        val: `39.40116333559168`,
+                                        excl_cell: `AF10`,
+                                        formula: `(AC41+J10+Q10-X10)/S10`
+                                    },
+                                    'r10c33': {
+                                        val: `20.52568838235294`,
+                                        excl_cell: `AG10`,
+                                        formula: `(AC41+J10+Q10-X10)/T10`
+                                    },
+                                    'r10c59': {
+                                        val: ``,
+                                        excl_cell: `AAG10`,
+                                        formula: ``
+                                    },
+                                    'r11c1': {
+                                        val: `Ackerbohne`,
+                                        excl_cell: `A11`,
+                                        formula: ``
+                                    },
+                                    'r11c3': {
+                                        val: `A`,
+                                        excl_cell: `C11`,
+                                        formula: ``
+                                    },
+                                    'r11c10': {
+                                        val: `415.67634426000006`,
+                                        excl_cell: `J11`,
+                                        formula: `SUM(D11,F11,G11,I11)`
+                                    },
+                                    'r11c17': {
+                                        val: `470`,
+                                        excl_cell: `Q11`,
+                                        formula: `SUM(K11,M11,O11)`
+                                    },
+                                    'r11c19': {
+                                        val: `20,50`,
+                                        excl_cell: `S11`,
+                                        formula: `S10*0.926`
+                                    },
+                                    'r11c20': {
+                                        val: `46,8`,
+                                        excl_cell: `T11`,
+                                        formula: `T18*U11`
+                                    },
+                                    'r11c21': {
+                                        val: `0,550`,
+                                        excl_cell: `U11`,
+                                        formula: ``
+                                    },
+                                    'r11c22': {
+                                        val: `958`,
+                                        excl_cell: `V11`,
+                                        formula: `S11*T11`
+                                    },
+                                    'r11c24': {
+                                        val: `160`,
+                                        excl_cell: `X11`,
+                                        formula: ``
+                                    },
+                                    'r11c25': {
+                                        val: `0`,
+                                        excl_cell: `Y11`,
+                                        formula: ``
+                                    },
+                                    'r11c29': {
+                                        val: `233.1453257400002`,
+                                        excl_cell: `AC11`,
+                                        formula: `V11+Y11-J11-Q11+X11`
+                                    },
+                                    'r11c32': {
+                                        val: `45.00275803594249`,
+                                        excl_cell: `AF11`,
+                                        formula: `(AC41+J11+Q11-X11)/S11`
+                                    },
+                                    'r11c33': {
+                                        val: `19.735408433368985`,
+                                        excl_cell: `AG11`,
+                                        formula: `(AC41+J11+Q11-X11)/T11`
+                                    },
+                                    'r11c59': {
+                                        val: ``,
+                                        excl_cell: `AAG11`,
+                                        formula: ``
+                                    },
+                                    'r12c1': {
+                                        val: `So-Raps`,
+                                        excl_cell: `A12`,
+                                        formula: ``
+                                    },
+                                    'r12c3': {
+                                        val: `A`,
+                                        excl_cell: `C12`,
+                                        formula: ``
+                                    },
+                                    'r12c10': {
+                                        val: `461.17705`,
+                                        excl_cell: `J12`,
+                                        formula: `SUM(D12,F12,G12,I12)`
+                                    },
+                                    'r12c17': {
+                                        val: `480`,
+                                        excl_cell: `Q12`,
+                                        formula: `SUM(K12,M12,O12)`
+                                    },
+                                    'r12c19': {
+                                        val: `39,60`,
+                                        excl_cell: `S12`,
+                                        formula: `S5`
+                                    },
+                                    'r12c20': {
+                                        val: `27,0`,
+                                        excl_cell: `T12`,
+                                        formula: `T18*U12`
+                                    },
+                                    'r12c21': {
+                                        val: `0,318`,
+                                        excl_cell: `U12`,
+                                        formula: ``
+                                    },
+                                    'r12c22': {
+                                        val: `1.069`,
+                                        excl_cell: `V12`,
+                                        formula: `S12*T12`
+                                    },
+                                    'r12c24': {
+                                        val: `100`,
+                                        excl_cell: `X12`,
+                                        formula: ``
+                                    },
+                                    'r12c25': {
+                                        val: `0`,
+                                        excl_cell: `Y12`,
+                                        formula: ``
+                                    },
+                                    'r12c29': {
+                                        val: `227.99795000000006`,
+                                        excl_cell: `AC12`,
+                                        formula: `V12+Y12-J12-Q12+X12`
+                                    },
+                                    'r12c32': {
+                                        val: `26.2254053030303`,
+                                        excl_cell: `AF12`,
+                                        formula: `(AC41+J12+Q12-X12)/S12`
+                                    },
+                                    'r12c33': {
+                                        val: `38.463927777777776`,
+                                        excl_cell: `AG12`,
+                                        formula: `(AC41+J12+Q12-X12)/T12`
+                                    },
+                                    'r12c59': {
+                                        val: ``,
+                                        excl_cell: `AAG12`,
+                                        formula: ``
+                                    },
+                                    'r13c1': {
+                                        val: `Sonnenblume`,
+                                        excl_cell: `A13`,
+                                        formula: ``
+                                    },
+                                    'r13c3': {
+                                        val: `A`,
+                                        excl_cell: `C13`,
+                                        formula: ``
+                                    },
+                                    'r13c10': {
+                                        val: `531.6549801777778`,
+                                        excl_cell: `J13`,
+                                        formula: `SUM(D13,F13,G13,I13)`
+                                    },
+                                    'r13c17': {
+                                        val: `535`,
+                                        excl_cell: `Q13`,
+                                        formula: `SUM(K13,M13,O13)`
+                                    },
+                                    'r13c19': {
+                                        val: `38,01`,
+                                        excl_cell: `S13`,
+                                        formula: `S5*0.96`
+                                    },
+                                    'r13c20': {
+                                        val: `28,9`,
+                                        excl_cell: `T13`,
+                                        formula: `T18*U13`
+                                    },
+                                    'r13c21': {
+                                        val: `0,340`,
+                                        excl_cell: `U13`,
+                                        formula: ``
+                                    },
+                                    'r13c22': {
+                                        val: `1.099`,
+                                        excl_cell: `V13`,
+                                        formula: `S13*T13`
+                                    },
+                                    'r13c24': {
+                                        val: `50`,
+                                        excl_cell: `X13`,
+                                        formula: ``
+                                    },
+                                    'r13c25': {
+                                        val: `0`,
+                                        excl_cell: `Y13`,
+                                        formula: ``
+                                    },
+                                    'r13c29': {
+                                        val: `81.83241982222216`,
+                                        excl_cell: `AC13`,
+                                        formula: `V13+Y13-J13-Q13+X13`
+                                    },
+                                    'r13c32': {
+                                        val: `31.9379729634306`,
+                                        excl_cell: `AF13`,
+                                        formula: `(AC41+J13+Q13-X13)/S13`
+                                    },
+                                    'r13c33': {
+                                        val: `42.01224844905805`,
+                                        excl_cell: `AG13`,
+                                        formula: `(AC41+J13+Q13-X13)/T13`
+                                    },
+                                    'r13c59': {
+                                        val: ``,
+                                        excl_cell: `AAG13`,
+                                        formula: ``
+                                    },
+                                    'r14c1': {
+                                        val: ``,
+                                        excl_cell: `A14`,
+                                        formula: ``
+                                    },
+                                    'r14c3': {
+                                        val: ``,
+                                        excl_cell: `C14`,
+                                        formula: ``
+                                    },
+                                    'r14c10': {
+                                        val: ``,
+                                        excl_cell: `J14`,
+                                        formula: ``
+                                    },
+                                    'r14c17': {
+                                        val: ``,
+                                        excl_cell: `Q14`,
+                                        formula: ``
+                                    },
+                                    'r14c19': {
+                                        val: ``,
+                                        excl_cell: `S14`,
+                                        formula: ``
+                                    },
+                                    'r14c20': {
+                                        val: ``,
+                                        excl_cell: `T14`,
+                                        formula: ``
+                                    },
+                                    'r14c21': {
+                                        val: ``,
+                                        excl_cell: `U14`,
+                                        formula: ``
+                                    },
+                                    'r14c22': {
+                                        val: ``,
+                                        excl_cell: `V14`,
+                                        formula: ``
+                                    },
+                                    'r14c24': {
+                                        val: ``,
+                                        excl_cell: `X14`,
+                                        formula: ``
+                                    },
+                                    'r14c25': {
+                                        val: ``,
+                                        excl_cell: `Y14`,
+                                        formula: ``
+                                    },
+                                    'r14c29': {
+                                        val: ``,
+                                        excl_cell: `AC14`,
+                                        formula: ``
+                                    },
+                                    'r14c32': {
+                                        val: ``,
+                                        excl_cell: `AF14`,
+                                        formula: ``
+                                    },
+                                    'r14c33': {
+                                        val: ``,
+                                        excl_cell: `AG14`,
+                                        formula: ``
+                                    },
+                                    'r14c59': {
+                                        val: ``,
+                                        excl_cell: `AAG14`,
+                                        formula: ``
+                                    },
+                                    'r15c1': {
+                                        val: `Wi-Durum`,
+                                        excl_cell: `A15`,
+                                        formula: ``
+                                    },
+                                    'r15c3': {
+                                        val: `B`,
+                                        excl_cell: `C15`,
+                                        formula: ``
+                                    },
+                                    'r15c10': {
+                                        val: `567.223993`,
+                                        excl_cell: `J15`,
+                                        formula: `SUM(D15,F15,G15,I15)`
+                                    },
+                                    'r15c17': {
+                                        val: `580`,
+                                        excl_cell: `Q15`,
+                                        formula: `SUM(K15,M15,O15)`
+                                    },
+                                    'r15c19': {
+                                        val: `23,20`,
+                                        excl_cell: `S15`,
+                                        formula: `S21`
+                                    },
+                                    'r15c20': {
+                                        val: `68,9`,
+                                        excl_cell: `T15`,
+                                        formula: `T18*U15`
+                                    },
+                                    'r15c21': {
+                                        val: `0,810`,
+                                        excl_cell: `U15`,
+                                        formula: ``
+                                    },
+                                    'r15c22': {
+                                        val: `1.597`,
+                                        excl_cell: `V15`,
+                                        formula: `(S15*T15*W15/100)+(S23*T15*(100-W15)/100)`
+                                    },
+                                    'r15c24': {
+                                        val: `0`,
+                                        excl_cell: `X15`,
+                                        formula: ``
+                                    },
+                                    'r15c25': {
+                                        val: `0`,
+                                        excl_cell: `Y15`,
+                                        formula: ``
+                                    },
+                                    'r15c29': {
+                                        val: `449.6660070000006`,
+                                        excl_cell: `AC15`,
+                                        formula: `V15+Y15-J15-Q15+X15`
+                                    },
+                                    'r15c32': {
+                                        val: `57.97318935344828`,
+                                        excl_cell: `AF15`,
+                                        formula: `(AC41+J15+Q15-X15)/S15`
+                                    },
+                                    'r15c33': {
+                                        val: `19.53490185911401`,
+                                        excl_cell: `AG15`,
+                                        formula: `(AC41+J15+Q15-X15)/T15`
+                                    },
+                                    'r15c59': {
+                                        val: ``,
+                                        excl_cell: `AAG15`,
+                                        formula: ``
+                                    },
+                                    'r16c1': {
+                                        val: `Dinkel`,
+                                        excl_cell: `A16`,
+                                        formula: ``
+                                    },
+                                    'r16c3': {
+                                        val: `B`,
+                                        excl_cell: `C16`,
+                                        formula: ``
+                                    },
+                                    'r16c10': {
+                                        val: `563.898642`,
+                                        excl_cell: `J16`,
+                                        formula: `SUM(D16,F16,G16,I16)`
+                                    },
+                                    'r16c17': {
+                                        val: `575`,
+                                        excl_cell: `Q16`,
+                                        formula: `SUM(K16,M16,O16)`
+                                    },
+                                    'r16c19': {
+                                        val: `21,06`,
+                                        excl_cell: `S16`,
+                                        formula: `S18*1.17`
+                                    },
+                                    'r16c20': {
+                                        val: `74,8`,
+                                        excl_cell: `T16`,
+                                        formula: `T18*U16`
+                                    },
+                                    'r16c21': {
+                                        val: `0,880`,
+                                        excl_cell: `U16`,
+                                        formula: ``
+                                    },
+                                    'r16c22': {
+                                        val: `1.575`,
+                                        excl_cell: `V16`,
+                                        formula: `S16*T16`
+                                    },
+                                    'r16c24': {
+                                        val: `0`,
+                                        excl_cell: `X16`,
+                                        formula: ``
+                                    },
+                                    'r16c25': {
+                                        val: `0`,
+                                        excl_cell: `Y16`,
+                                        formula: ``
+                                    },
+                                    'r16c29': {
+                                        val: `436.53935799999977`,
+                                        excl_cell: `AC16`,
+                                        formula: `V16+Y16-J16-Q16+X16`
+                                    },
+                                    'r16c32': {
+                                        val: `63.4412460588794`,
+                                        excl_cell: `AF16`,
+                                        formula: `(AC41+J16+Q16-X16)/S16`
+                                    },
+                                    'r16c33': {
+                                        val: `17.861933716577543`,
+                                        excl_cell: `AG16`,
+                                        formula: `(AC41+J16+Q16-X16)/T16`
+                                    },
+                                    'r16c59': {
+                                        val: ``,
+                                        excl_cell: `AAG16`,
+                                        formula: ``
+                                    },
+                                    'r17c1': {
+                                        val: `Wi-Weizen A`,
+                                        excl_cell: `A17`,
+                                        formula: ``
+                                    },
+                                    'r17c3': {
+                                        val: `B`,
+                                        excl_cell: `C17`,
+                                        formula: ``
+                                    },
+                                    'r17c10': {
+                                        val: `549.3099365`,
+                                        excl_cell: `J17`,
+                                        formula: `SUM(D17,F17,G17,I17)`
+                                    },
+                                    'r17c17': {
+                                        val: `590`,
+                                        excl_cell: `Q17`,
+                                        formula: `SUM(K17,M17,O17)`
+                                    },
+                                    'r17c19': {
+                                        val: `18,55`,
+                                        excl_cell: `S17`,
+                                        formula: `S18+0.55`
+                                    },
+                                    'r17c20': {
+                                        val: `83,3`,
+                                        excl_cell: `T17`,
+                                        formula: `T18*U17`
+                                    },
+                                    'r17c21': {
+                                        val: `0,980`,
+                                        excl_cell: `U17`,
+                                        formula: ``
+                                    },
+                                    'r17c22': {
+                                        val: `1.545`,
+                                        excl_cell: `V17`,
+                                        formula: `S17*T17`
+                                    },
+                                    'r17c24': {
+                                        val: `0`,
+                                        excl_cell: `X17`,
+                                        formula: ``
+                                    },
+                                    'r17c25': {
+                                        val: `0`,
+                                        excl_cell: `Y17`,
+                                        formula: ``
+                                    },
+                                    'r17c29': {
+                                        val: `405.90506349999987`,
+                                        excl_cell: `AC17`,
+                                        formula: `V17+Y17-J17-Q17+X17`
+                                    },
+                                    'r17c32': {
+                                        val: `72.05573781671158`,
+                                        excl_cell: `AF17`,
+                                        formula: `(AC41+J17+Q17-X17)/S17`
+                                    },
+                                    'r17c33': {
+                                        val: `16.046025648259302`,
+                                        excl_cell: `AG17`,
+                                        formula: `(AC41+J17+Q17-X17)/T17`
+                                    },
+                                    'r17c59': {
+                                        val: ``,
+                                        excl_cell: `AAG17`,
+                                        formula: ``
+                                    },
+                                    'r18c1': {
+                                        val: `Wi-Weizen B`,
+                                        excl_cell: `A18`,
+                                        formula: ``
+                                    },
+                                    'r18c3': {
+                                        val: `B`,
+                                        excl_cell: `C18`,
+                                        formula: ``
+                                    },
+                                    'r18c10': {
+                                        val: `541.7288000000001`,
+                                        excl_cell: `J18`,
+                                        formula: `SUM(D18,F18,G18,I18)`
+                                    },
+                                    'r18c17': {
+                                        val: `590`,
+                                        excl_cell: `Q18`,
+                                        formula: `SUM(K18,M18,O18)`
+                                    },
+                                    'r18c19': {
+                                        val: `18,00`,
+                                        excl_cell: `S18`,
+                                        formula: ``
+                                    },
+                                    'r18c20': {
+                                        val: `85,0`,
+                                        excl_cell: `T18`,
+                                        formula: ``
+                                    },
+                                    'r18c21': {
+                                        val: `1,000`,
+                                        excl_cell: `U18`,
+                                        formula: ``
+                                    },
+                                    'r18c22': {
+                                        val: `1.530`,
+                                        excl_cell: `V18`,
+                                        formula: `S18*T18`
+                                    },
+                                    'r18c24': {
+                                        val: `0`,
+                                        excl_cell: `X18`,
+                                        formula: ``
+                                    },
+                                    'r18c25': {
+                                        val: `0`,
+                                        excl_cell: `Y18`,
+                                        formula: ``
+                                    },
+                                    'r18c29': {
+                                        val: `398.2711999999999`,
+                                        excl_cell: `AC18`,
+                                        formula: `V18+Y18-J18-Q18+X18`
+                                    },
+                                    'r18c32': {
+                                        val: `73.83626666666666`,
+                                        excl_cell: `AF18`,
+                                        formula: `(AC41+J18+Q18-X18)/S18`
+                                    },
+                                    'r18c33': {
+                                        val: `15.635915294117646`,
+                                        excl_cell: `AG18`,
+                                        formula: `(AC41+J18+Q18-X18)/T18`
+                                    },
+                                    'r18c59': {
+                                        val: ``,
+                                        excl_cell: `AAG18`,
+                                        formula: ``
+                                    },
+                                    'r19c1': {
+                                        val: `Wi-Weizen E`,
+                                        excl_cell: `A19`,
+                                        formula: ``
+                                    },
+                                    'r19c3': {
+                                        val: `B`,
+                                        excl_cell: `C19`,
+                                        formula: ``
+                                    },
+                                    'r19c10': {
+                                        val: `539.7790945`,
+                                        excl_cell: `J19`,
+                                        formula: `SUM(D19,F19,G19,I19)`
+                                    },
+                                    'r19c17': {
+                                        val: `595`,
+                                        excl_cell: `Q19`,
+                                        formula: `SUM(K19,M19,O19)`
+                                    },
+                                    'r19c19': {
+                                        val: `20,10`,
+                                        excl_cell: `S19`,
+                                        formula: `S18+2.1`
+                                    },
+                                    'r19c20': {
+                                        val: `75,7`,
+                                        excl_cell: `T19`,
+                                        formula: `T18*U19`
+                                    },
+                                    'r19c21': {
+                                        val: `0,890`,
+                                        excl_cell: `U19`,
+                                        formula: ``
+                                    },
+                                    'r19c22': {
+                                        val: `1.521`,
+                                        excl_cell: `V19`,
+                                        formula: `S19*T19`
+                                    },
+                                    'r19c24': {
+                                        val: `0`,
+                                        excl_cell: `X19`,
+                                        formula: ``
+                                    },
+                                    'r19c25': {
+                                        val: `0`,
+                                        excl_cell: `Y19`,
+                                        formula: ``
+                                    },
+                                    'r19c29': {
+                                        val: `385.8359055000002`,
+                                        excl_cell: `AC19`,
+                                        formula: `V19+Y19-J19-Q19+X19`
+                                    },
+                                    'r19c32': {
+                                        val: `66.27129823383085`,
+                                        excl_cell: `AF19`,
+                                        formula: `(AC41+J19+Q19-X19)/S19`
+                                    },
+                                    'r19c33': {
+                                        val: `17.60810435558493`,
+                                        excl_cell: `AG19`,
+                                        formula: `(AC41+J19+Q19-X19)/T19`
+                                    },
+                                    'r19c59': {
+                                        val: ``,
+                                        excl_cell: `AAG19`,
+                                        formula: ``
+                                    },
+                                    'r20c1': {
+                                        val: `Hybridrogg. Eig.verf.`,
+                                        excl_cell: `A20`,
+                                        formula: ``
+                                    },
+                                    'r20c3': {
+                                        val: `B`,
+                                        excl_cell: `C20`,
+                                        formula: ``
+                                    },
+                                    'r20c10': {
+                                        val: `533.014942`,
+                                        excl_cell: `J20`,
+                                        formula: `SUM(D20,F20,G20,I20)`
+                                    },
+                                    'r20c17': {
+                                        val: `575`,
+                                        excl_cell: `Q20`,
+                                        formula: `SUM(K20,M20,O20)`
+                                    },
+                                    'r20c19': {
+                                        val: `16,90`,
+                                        excl_cell: `S20`,
+                                        formula: `S23-0.5`
+                                    },
+                                    'r20c20': {
+                                        val: `88,4`,
+                                        excl_cell: `T20`,
+                                        formula: `T18*U20`
+                                    },
+                                    'r20c21': {
+                                        val: `1,040`,
+                                        excl_cell: `U20`,
+                                        formula: ``
+                                    },
+                                    'r20c22': {
+                                        val: `1.494`,
+                                        excl_cell: `V20`,
+                                        formula: `S20*T20`
+                                    },
+                                    'r20c24': {
+                                        val: `0`,
+                                        excl_cell: `X20`,
+                                        formula: ``
+                                    },
+                                    'r20c25': {
+                                        val: `0`,
+                                        excl_cell: `Y20`,
+                                        formula: ``
+                                    },
+                                    'r20c29': {
+                                        val: `386.39505800000006`,
+                                        excl_cell: `AC20`,
+                                        formula: `V20+Y20-J20-Q20+X20`
+                                    },
+                                    'r20c32': {
+                                        val: `77.21236343195267`,
+                                        excl_cell: `AF20`,
+                                        formula: `(AC41+J20+Q20-X20)/S20`
+                                    },
+                                    'r20c33': {
+                                        val: `14.761187126696832`,
+                                        excl_cell: `AG20`,
+                                        formula: `(AC41+J20+Q20-X20)/T20`
+                                    },
+                                    'r20c59': {
+                                        val: ``,
+                                        excl_cell: `AAG20`,
+                                        formula: ``
+                                    },
+                                    'r21c1': {
+                                        val: `So-Durum`,
+                                        excl_cell: `A21`,
+                                        formula: ``
+                                    },
+                                    'r21c3': {
+                                        val: `B`,
+                                        excl_cell: `C21`,
+                                        formula: ``
+                                    },
+                                    'r21c10': {
+                                        val: `514.93850976`,
+                                        excl_cell: `J21`,
+                                        formula: `SUM(D21,F21,G21,I21)`
+                                    },
+                                    'r21c17': {
+                                        val: `530`,
+                                        excl_cell: `Q21`,
+                                        formula: `SUM(K21,M21,O21)`
+                                    },
+                                    'r21c19': {
+                                        val: `23,20`,
+                                        excl_cell: `S21`,
+                                        formula: `S18+5.2`
+                                    },
+                                    'r21c20': {
+                                        val: `59,4`,
+                                        excl_cell: `T21`,
+                                        formula: `T18*U21`
+                                    },
+                                    'r21c21': {
+                                        val: `0,699`,
+                                        excl_cell: `U21`,
+                                        formula: ``
+                                    },
+                                    'r21c22': {
+                                        val: `1.379`,
+                                        excl_cell: `V21`,
+                                        formula: `(S21*T21*W21/100)+(S23*T21*(100-W21)/100)`
+                                    },
+                                    'r21c24': {
+                                        val: `40`,
+                                        excl_cell: `X21`,
+                                        formula: ``
+                                    },
+                                    'r21c25': {
+                                        val: `0`,
+                                        excl_cell: `Y21`,
+                                        formula: ``
+                                    },
+                                    'r21c29': {
+                                        val: `374.18389024`,
+                                        excl_cell: `AC21`,
+                                        formula: `V21+Y21-J21-Q21+X21`
+                                    },
+                                    'r21c32': {
+                                        val: `51.808728868965524`,
+                                        excl_cell: `AF21`,
+                                        formula: `(AC41+J21+Q21-X21)/S21`
+                                    },
+                                    'r21c33': {
+                                        val: `20.224163914389557`,
+                                        excl_cell: `AG21`,
+                                        formula: `(AC41+J21+Q21-X21)/T21`
+                                    },
+                                    'r21c59': {
+                                        val: ``,
+                                        excl_cell: `AAG21`,
+                                        formula: ``
+                                    },
+                                    'r23c1': {
+                                        val: `Wi-Weizen C`,
+                                        excl_cell: `A23`,
+                                        formula: ``
+                                    },
+                                    'r23c3': {
+                                        val: `B`,
+                                        excl_cell: `C23`,
+                                        formula: ``
+                                    },
+                                    'r23c10': {
+                                        val: `544.160026`,
+                                        excl_cell: `J23`,
+                                        formula: `SUM(D23,F23,G23,I23)`
+                                    },
+                                    'r23c17': {
+                                        val: `590`,
+                                        excl_cell: `Q23`,
+                                        formula: `SUM(K23,M23,O23)`
+                                    },
+                                    'r23c19': {
+                                        val: `17,40`,
+                                        excl_cell: `S23`,
+                                        formula: `S18-0.6`
+                                    },
+                                    'r23c20': {
+                                        val: `86,7`,
+                                        excl_cell: `T23`,
+                                        formula: `T18*U23`
+                                    },
+                                    'r23c21': {
+                                        val: `1,020`,
+                                        excl_cell: `U23`,
+                                        formula: ``
+                                    },
+                                    'r23c22': {
+                                        val: `1.509`,
+                                        excl_cell: `V23`,
+                                        formula: `S23*T23`
+                                    },
+                                    'r23c24': {
+                                        val: `0`,
+                                        excl_cell: `X23`,
+                                        formula: ``
+                                    },
+                                    'r23c25': {
+                                        val: `0`,
+                                        excl_cell: `Y23`,
+                                        formula: ``
+                                    },
+                                    'r23c29': {
+                                        val: `374.4199739999999`,
+                                        excl_cell: `AC23`,
+                                        formula: `V23+Y23-J23-Q23+X23`
+                                    },
+                                    'r23c32': {
+                                        val: `76.52207045977012`,
+                                        excl_cell: `AF23`,
+                                        formula: `(AC41+J23+Q23-X23)/S23`
+                                    },
+                                    'r23c33': {
+                                        val: `15.357370542099194`,
+                                        excl_cell: `AG23`,
+                                        formula: `(AC41+J23+Q23-X23)/T23`
+                                    },
+                                    'r23c59': {
+                                        val: ``,
+                                        excl_cell: `AAG23`,
+                                        formula: ``
+                                    },
+                                    'r24c1': {
+                                        val: `Wi-Triticale`,
+                                        excl_cell: `A24`,
+                                        formula: ``
+                                    },
+                                    'r24c3': {
+                                        val: `B`,
+                                        excl_cell: `C24`,
+                                        formula: `C23`
+                                    },
+                                    'r24c10': {
+                                        val: `506.517778`,
+                                        excl_cell: `J24`,
+                                        formula: `SUM(D24,F24,G24,I24)`
+                                    },
+                                    'r24c17': {
+                                        val: `560`,
+                                        excl_cell: `Q24`,
+                                        formula: `SUM(K24,M24,O24)`
+                                    },
+                                    'r24c19': {
+                                        val: `17,20`,
+                                        excl_cell: `S24`,
+                                        formula: `S18-0.8`
+                                    },
+                                    'r24c20': {
+                                        val: `85,8`,
+                                        excl_cell: `T24`,
+                                        formula: `T18*U24`
+                                    },
+                                    'r24c21': {
+                                        val: `1,010`,
+                                        excl_cell: `U24`,
+                                        formula: ``
+                                    },
+                                    'r24c22': {
+                                        val: `1.477`,
+                                        excl_cell: `V24`,
+                                        formula: `S24*T24`
+                                    },
+                                    'r24c24': {
+                                        val: `0`,
+                                        excl_cell: `X24`,
+                                        formula: ``
+                                    },
+                                    'r24c25': {
+                                        val: `0`,
+                                        excl_cell: `Y24`,
+                                        formula: `Y23`
+                                    },
+                                    'r24c29': {
+                                        val: `374.4199739999999`,
+                                        excl_cell: `AC24`,
+                                        formula: `AC23`
+                                    },
+                                    'r24c32': {
+                                        val: `73.47917313953488`,
+                                        excl_cell: `AF24`,
+                                        formula: `(AC41+J24+Q24-X24)/S24`
+                                    },
+                                    'r24c33': {
+                                        val: `14.721511683168318`,
+                                        excl_cell: `AG24`,
+                                        formula: `(AC41+J24+Q24-X24)/T24`
+                                    },
+                                    'r24c59': {
+                                        val: ``,
+                                        excl_cell: `AAG24`,
+                                        formula: ``
+                                    },
+                                    'r25c1': {
+                                        val: `So-Weizen E`,
+                                        excl_cell: `A25`,
+                                        formula: ``
+                                    },
+                                    'r25c3': {
+                                        val: `B`,
+                                        excl_cell: `C25`,
+                                        formula: ``
+                                    },
+                                    'r25c10': {
+                                        val: `478.871588`,
+                                        excl_cell: `J25`,
+                                        formula: `SUM(D25,F25,G25,I25)`
+                                    },
+                                    'r25c17': {
+                                        val: `520`,
+                                        excl_cell: `Q25`,
+                                        formula: `SUM(K25,M25,O25)`
+                                    },
+                                    'r25c19': {
+                                        val: `20,30`,
+                                        excl_cell: `S25`,
+                                        formula: `S19+0.2`
+                                    },
+                                    'r25c20': {
+                                        val: `64,6`,
+                                        excl_cell: `T25`,
+                                        formula: `T18*U25`
+                                    },
+                                    'r25c21': {
+                                        val: `0,760`,
+                                        excl_cell: `U25`,
+                                        formula: ``
+                                    },
+                                    'r25c22': {
+                                        val: `1.311`,
+                                        excl_cell: `V25`,
+                                        formula: `S25*T25`
+                                    },
+                                    'r25c24': {
+                                        val: `40`,
+                                        excl_cell: `X25`,
+                                        formula: ``
+                                    },
+                                    'r25c25': {
+                                        val: `0`,
+                                        excl_cell: `Y25`,
+                                        formula: ``
+                                    },
+                                    'r25c29': {
+                                        val: `352.7634119999999`,
+                                        excl_cell: `AC25`,
+                                        formula: `V25+Y25-J25-Q25+X25`
+                                    },
+                                    'r25c32': {
+                                        val: `56.94288610837438`,
+                                        excl_cell: `AF25`,
+                                        formula: `(AC41+J25+Q25-X25)/S25`
+                                    },
+                                    'r25c33': {
+                                        val: `17.893817151702788`,
+                                        excl_cell: `AG25`,
+                                        formula: `(AC41+J25+Q25-X25)/T25`
+                                    },
+                                    'r25c59': {
+                                        val: ``,
+                                        excl_cell: `AAG25`,
+                                        formula: ``
+                                    },
+                                    'r26c1': {
+                                        val: `So-Braugerste`,
+                                        excl_cell: `A26`,
+                                        formula: ``
+                                    },
+                                    'r26c3': {
+                                        val: `B`,
+                                        excl_cell: `C26`,
+                                        formula: ``
+                                    },
+                                    'r26c10': {
+                                        val: `408.363707`,
+                                        excl_cell: `J26`,
+                                        formula: `SUM(D26,F26,G26,I26)`
+                                    },
+                                    'r26c17': {
+                                        val: `540`,
+                                        excl_cell: `Q26`,
+                                        formula: `SUM(K26,M26,O26)`
+                                    },
+                                    'r26c19': {
+                                        val: `21,00`,
+                                        excl_cell: `S26`,
+                                        formula: `S37`
+                                    },
+                                    'r26c20': {
+                                        val: `58,6`,
+                                        excl_cell: `T26`,
+                                        formula: `T18*U26`
+                                    },
+                                    'r26c21': {
+                                        val: `0,690`,
+                                        excl_cell: `U26`,
+                                        formula: ``
+                                    },
+                                    'r26c22': {
+                                        val: `1.232`,
+                                        excl_cell: `V26`,
+                                        formula: `S26*T26`
+                                    },
+                                    'r26c24': {
+                                        val: `40`,
+                                        excl_cell: `X26`,
+                                        formula: ``
+                                    },
+                                    'r26c25': {
+                                        val: `0`,
+                                        excl_cell: `Y26`,
+                                        formula: ``
+                                    },
+                                    'r26c29': {
+                                        val: `322.96129299999984`,
+                                        excl_cell: `AC26`,
+                                        formula: `V26+Y26-J26-Q26+X26`
+                                    },
+                                    'r26c32': {
+                                        val: `52.66727176190476`,
+                                        excl_cell: `AF26`,
+                                        formula: `(AC41+J26+Q26-X26)/S26`
+                                    },
+                                    'r26c33': {
+                                        val: `18.857846666666664`,
+                                        excl_cell: `AG26`,
+                                        formula: `(AC41+J26+Q26-X26)/T26`
+                                    },
+                                    'r26c59': {
+                                        val: ``,
+                                        excl_cell: `AAG26`,
+                                        formula: ``
+                                    },
+                                    'r27c1': {
+                                        val: `Hybridroggen`,
+                                        excl_cell: `A27`,
+                                        formula: ``
+                                    },
+                                    'r27c3': {
+                                        val: `B`,
+                                        excl_cell: `C27`,
+                                        formula: ``
+                                    },
+                                    'r27c10': {
+                                        val: `531.901102`,
+                                        excl_cell: `J27`,
+                                        formula: `SUM(D27,F27,G27,I27)`
+                                    },
+                                    'r27c17': {
+                                        val: `575`,
+                                        excl_cell: `Q27`,
+                                        formula: `SUM(K27,M27,O27)`
+                                    },
+                                    'r27c19': {
+                                        val: `16,00`,
+                                        excl_cell: `S27`,
+                                        formula: `S18-2`
+                                    },
+                                    'r27c20': {
+                                        val: `88,4`,
+                                        excl_cell: `T27`,
+                                        formula: `T18*U27`
+                                    },
+                                    'r27c21': {
+                                        val: `1,040`,
+                                        excl_cell: `U27`,
+                                        formula: ``
+                                    },
+                                    'r27c22': {
+                                        val: `1.414`,
+                                        excl_cell: `V27`,
+                                        formula: `S27*T27`
+                                    },
+                                    'r27c24': {
+                                        val: `0`,
+                                        excl_cell: `X27`,
+                                        formula: ``
+                                    },
+                                    'r27c25': {
+                                        val: `0`,
+                                        excl_cell: `Y27`,
+                                        formula: ``
+                                    },
+                                    'r27c29': {
+                                        val: `307.9488980000001`,
+                                        excl_cell: `AC27`,
+                                        formula: `V27+Y27-J27-Q27+X27`
+                                    },
+                                    'r27c32': {
+                                        val: `81.485943875`,
+                                        excl_cell: `AF27`,
+                                        formula: `(AC41+J27+Q27-X27)/S27`
+                                    },
+                                    'r27c33': {
+                                        val: `14.748587126696833`,
+                                        excl_cell: `AG27`,
+                                        formula: `(AC41+J27+Q27-X27)/T27`
+                                    },
+                                    'r27c59': {
+                                        val: ``,
+                                        excl_cell: `AAG27`,
+                                        formula: ``
+                                    },
+                                    'r28c1': {
+                                        val: `Silomais ab Feld*`,
+                                        excl_cell: `A28`,
+                                        formula: ``
+                                    },
+                                    'r28c3': {
+                                        val: `B`,
+                                        excl_cell: `C28`,
+                                        formula: ``
+                                    },
+                                    'r28c10': {
+                                        val: `521.7880592721519`,
+                                        excl_cell: `J28`,
+                                        formula: `SUM(D28,F28,G28,I28)`
+                                    },
+                                    'r28c17': {
+                                        val: `390`,
+                                        excl_cell: `Q28`,
+                                        formula: `SUM(K28,M28,O28)`
+                                    },
+                                    'r28c19': {
+                                        val: `2,64`,
+                                        excl_cell: `S28`,
+                                        formula: `S4/7.11`
+                                    },
+                                    'r28c20': {
+                                        val: `450,0`,
+                                        excl_cell: `T28`,
+                                        formula: `T18*U28*10`
+                                    },
+                                    'r28c21': {
+                                        val: `0,529`,
+                                        excl_cell: `U28`,
+                                        formula: ``
+                                    },
+                                    'r28c22': {
+                                        val: `1.190`,
+                                        excl_cell: `V28`,
+                                        formula: `S28*T28`
+                                    },
+                                    'r28c24': {
+                                        val: `-80`,
+                                        excl_cell: `X28`,
+                                        formula: ``
+                                    },
+                                    'r28c25': {
+                                        val: `0`,
+                                        excl_cell: `Y28`,
+                                        formula: ``
+                                    },
+                                    'r28c29': {
+                                        val: `198.16035844936704`,
+                                        excl_cell: `AC28`,
+                                        formula: `V28+Y28-J28-Q28+X28`
+                                    },
+                                    'r28c32': {
+                                        val: `449.68369635239367`,
+                                        excl_cell: `AF28`,
+                                        formula: `(AC41+J28+Q28-X28)/S28`
+                                    },
+                                    'r28c33': {
+                                        val: `2.642304576160338`,
+                                        excl_cell: `AG28`,
+                                        formula: `(AC41+J28+Q28-X28)/T28`
+                                    },
+                                    'r28c59': {
+                                        val: ``,
+                                        excl_cell: `AAG28`,
+                                        formula: ``
+                                    },
+                                    'r30c1': {
+                                        val: `RW-GPS ab Feld*`,
+                                        excl_cell: `A30`,
+                                        formula: ``
+                                    },
+                                    'r30c3': {
+                                        val: `B`,
+                                        excl_cell: `C30`,
+                                        formula: ``
+                                    },
+                                    'r30c10': {
+                                        val: `385.2008780245362`,
+                                        excl_cell: `J30`,
+                                        formula: `SUM(D30,F30,G30,I30)`
+                                    },
+                                    'r30c17': {
+                                        val: `385`,
+                                        excl_cell: `Q30`,
+                                        formula: `SUM(K30,M30,O30)`
+                                    },
+                                    'r30c19': {
+                                        val: `2,80`,
+                                        excl_cell: `S30`,
+                                        formula: `S27/5.71`
+                                    },
+                                    'r30c20': {
+                                        val: `360,0`,
+                                        excl_cell: `T30`,
+                                        formula: `T20*0.84*1.6/0.33`
+                                    },
+                                    'r30c21': {
+                                        val: `0,470`,
+                                        excl_cell: `U30`,
+                                        formula: ``
+                                    },
+                                    'r30c22': {
+                                        val: `1.009`,
+                                        excl_cell: `V30`,
+                                        formula: `S30*T30`
+                                    },
+                                    'r30c24': {
+                                        val: `-40`,
+                                        excl_cell: `X30`,
+                                        formula: ``
+                                    },
+                                    'r30c25': {
+                                        val: `0`,
+                                        excl_cell: `Y30`,
+                                        formula: ``
+                                    },
+                                    'r30c29': {
+                                        val: `198.1622050832491`,
+                                        excl_cell: `AC30`,
+                                        formula: `V30+Y30-J30-Q30+X30`
+                                    },
+                                    'r30c32': {
+                                        val: `359.72995647000636`,
+                                        excl_cell: `AF30`,
+                                        formula: `(AC41+J30+Q30-X30)/S30`
+                                    },
+                                    'r30c33': {
+                                        val: `2.7997734168627533`,
+                                        excl_cell: `AG30`,
+                                        formula: `(AC41+J30+Q30-X30)/T30`
+                                    },
+                                    'r30c59': {
+                                        val: ``,
+                                        excl_cell: `AAG30`,
+                                        formula: ``
+                                    },
+                                    'r32c1': {
+                                        val: `Wi-Braugerste`,
+                                        excl_cell: `A32`,
+                                        formula: ``
+                                    },
+                                    'r32c3': {
+                                        val: `C`,
+                                        excl_cell: `C32`,
+                                        formula: ``
+                                    },
+                                    'r32c10': {
+                                        val: `458.8007222`,
+                                        excl_cell: `J32`,
+                                        formula: `SUM(D32,F32,G32,I32)`
+                                    },
+                                    'r32c17': {
+                                        val: `569`,
+                                        excl_cell: `Q32`,
+                                        formula: `SUM(K32,M32,O32)`
+                                    },
+                                    'r32c19': {
+                                        val: `19,60`,
+                                        excl_cell: `S32`,
+                                        formula: `S36+2.7`
+                                    },
+                                    'r32c20': {
+                                        val: `67,5`,
+                                        excl_cell: `T32`,
+                                        formula: `T18*U32`
+                                    },
+                                    'r32c21': {
+                                        val: `0,794`,
+                                        excl_cell: `U32`,
+                                        formula: ``
+                                    },
+                                    'r32c22': {
+                                        val: `1.323`,
+                                        excl_cell: `V32`,
+                                        formula: `S32*T32`
+                                    },
+                                    'r32c24': {
+                                        val: `80`,
+                                        excl_cell: `X32`,
+                                        formula: ``
+                                    },
+                                    'r32c25': {
+                                        val: `0`,
+                                        excl_cell: `Y32`,
+                                        formula: ``
+                                    },
+                                    'r32c29': {
+                                        val: `374.1032778000001`,
+                                        excl_cell: `AC32`,
+                                        formula: `V32+Y32-J32-Q32+X32`
+                                    },
+                                    'r32c32': {
+                                        val: `58.470649091836734`,
+                                        excl_cell: `AF32`,
+                                        formula: `(AC41+J32+Q32-X32)/S32`
+                                    },
+                                    'r32c33': {
+                                        val: `16.980659685879385`,
+                                        excl_cell: `AG32`,
+                                        formula: `(AC41+J32+Q32-X32)/T32`
+                                    },
+                                    'r32c59': {
+                                        val: ``,
+                                        excl_cell: `AAG32`,
+                                        formula: ``
+                                    },
+                                    'r33c1': {
+                                        val: `Hybridroggen Eig.verf.`,
+                                        excl_cell: `A33`,
+                                        formula: ``
+                                    },
+                                    'r33c3': {
+                                        val: `C`,
+                                        excl_cell: `C33`,
+                                        formula: ``
+                                    },
+                                    'r33c10': {
+                                        val: `529.1460500000001`,
+                                        excl_cell: `J33`,
+                                        formula: `SUM(D33,F33,G33,I33)`
+                                    },
+                                    'r33c17': {
+                                        val: `579`,
+                                        excl_cell: `Q33`,
+                                        formula: `SUM(K33,M33,O33)`
+                                    },
+                                    'r33c19': {
+                                        val: `16,90`,
+                                        excl_cell: `S33`,
+                                        formula: `S20`
+                                    },
+                                    'r33c20': {
+                                        val: `85,0`,
+                                        excl_cell: `T33`,
+                                        formula: `T18*U33`
+                                    },
+                                    'r33c21': {
+                                        val: `1,000`,
+                                        excl_cell: `U33`,
+                                        formula: ``
+                                    },
+                                    'r33c22': {
+                                        val: `1.436`,
+                                        excl_cell: `V33`,
+                                        formula: `S33*T33`
+                                    },
+                                    'r33c24': {
+                                        val: `0`,
+                                        excl_cell: `X33`,
+                                        formula: ``
+                                    },
+                                    'r33c25': {
+                                        val: `0`,
+                                        excl_cell: `Y33`,
+                                        formula: ``
+                                    },
+                                    'r33c29': {
+                                        val: `327.55394999999976`,
+                                        excl_cell: `AC33`,
+                                        formula: `V33+Y33-J33-Q33+X33`
+                                    },
+                                    'r33c32': {
+                                        val: `77.29408579881658`,
+                                        excl_cell: `AF33`,
+                                        formula: `(AC41+J33+Q33-X33)/S33`
+                                    },
+                                    'r33c33': {
+                                        val: `15.367882941176472`,
+                                        excl_cell: `AG33`,
+                                        formula: `(AC41+J33+Q33-X33)/T33`
+                                    },
+                                    'r33c59': {
+                                        val: ``,
+                                        excl_cell: `AAG33`,
+                                        formula: ``
+                                    },
+                                    'r34c1': {
+                                        val: `Qualitätshafer`,
+                                        excl_cell: `A34`,
+                                        formula: ``
+                                    },
+                                    'r34c3': {
+                                        val: `C`,
+                                        excl_cell: `C34`,
+                                        formula: ``
+                                    },
+                                    'r34c10': {
+                                        val: `338.90107140000003`,
+                                        excl_cell: `J34`,
+                                        formula: `SUM(D34,F34,G34,I34)`
+                                    },
+                                    'r34c17': {
+                                        val: `520`,
+                                        excl_cell: `Q34`,
+                                        formula: `SUM(K34,M34,O34)`
+                                    },
+                                    'r34c19': {
+                                        val: `17,07`,
+                                        excl_cell: `S34`,
+                                        formula: `S18-0.93`
+                                    },
+                                    'r34c20': {
+                                        val: `63,0`,
+                                        excl_cell: `T34`,
+                                        formula: `T18*U34`
+                                    },
+                                    'r34c21': {
+                                        val: `0,741`,
+                                        excl_cell: `U34`,
+                                        formula: ``
+                                    },
+                                    'r34c22': {
+                                        val: `1.075`,
+                                        excl_cell: `V34`,
+                                        formula: `S34*T34`
+                                    },
+                                    'r34c24': {
+                                        val: `80`,
+                                        excl_cell: `X34`,
+                                        formula: ``
+                                    },
+                                    'r34c25': {
+                                        val: `0`,
+                                        excl_cell: `Y34`,
+                                        formula: ``
+                                    },
+                                    'r34c29': {
+                                        val: `296.07787859999985`,
+                                        excl_cell: `AC34`,
+                                        formula: `V34+Y34-J34-Q34+X34`
+                                    },
+                                    'r34c32': {
+                                        val: `57.199769853544225`,
+                                        excl_cell: `AF34`,
+                                        formula: `(AC41+J34+Q34-X34)/S34`
+                                    },
+                                    'r34c33': {
+                                        val: `15.502104809081526`,
+                                        excl_cell: `AG34`,
+                                        formula: `(AC41+J34+Q34-X34)/T34`
+                                    },
+                                    'r34c59': {
+                                        val: ``,
+                                        excl_cell: `AAG34`,
+                                        formula: ``
+                                    },
+                                    'r35c1': {
+                                        val: `Qualitätshafer akt.*`,
+                                        excl_cell: `A35`,
+                                        formula: ``
+                                    },
+                                    'r35c3': {
+                                        val: `C`,
+                                        excl_cell: `C35`,
+                                        formula: ``
+                                    },
+                                    'r35c10': {
+                                        val: `340.5412008`,
+                                        excl_cell: `J35`,
+                                        formula: `SUM(D35,F35,G35,I35)`
+                                    },
+                                    'r35c17': {
+                                        val: `520`,
+                                        excl_cell: `Q35`,
+                                        formula: `SUM(K35,M35,O35)`
+                                    },
+                                    'r35c19': {
+                                        val: `18,00`,
+                                        excl_cell: `S35`,
+                                        formula: `S18`
+                                    },
+                                    'r35c20': {
+                                        val: `63,0`,
+                                        excl_cell: `T35`,
+                                        formula: `T18*U35`
+                                    },
+                                    'r35c21': {
+                                        val: `0,741`,
+                                        excl_cell: `U35`,
+                                        formula: ``
+                                    },
+                                    'r35c22': {
+                                        val: `1.134`,
+                                        excl_cell: `V35`,
+                                        formula: `S35*T35`
+                                    },
+                                    'r35c24': {
+                                        val: `80`,
+                                        excl_cell: `X35`,
+                                        formula: ``
+                                    },
+                                    'r35c25': {
+                                        val: `0`,
+                                        excl_cell: `Y35`,
+                                        formula: ``
+                                    },
+                                    'r35c29': {
+                                        val: `353.0137992`,
+                                        excl_cell: `AC35`,
+                                        formula: `V35+Y35-J35-Q35+X35`
+                                    },
+                                    'r35c32': {
+                                        val: `54.335566711111106`,
+                                        excl_cell: `AF35`,
+                                        formula: `(AC41+J35+Q35-X35)/S35`
+                                    },
+                                    'r35c33': {
+                                        val: `15.528144809081525`,
+                                        excl_cell: `AG35`,
+                                        formula: `(AC41+J35+Q35-X35)/T35`
+                                    },
+                                    'r35c59': {
+                                        val: ``,
+                                        excl_cell: `AAG35`,
+                                        formula: ``
+                                    },
+                                    'r36c1': {
+                                        val: `Wintergerste`,
+                                        excl_cell: `A36`,
+                                        formula: ``
+                                    },
+                                    'r36c3': {
+                                        val: `C`,
+                                        excl_cell: `C36`,
+                                        formula: ``
+                                    },
+                                    'r36c10': {
+                                        val: `485.16949999999997`,
+                                        excl_cell: `J36`,
+                                        formula: `SUM(D36,F36,G36,I36)`
+                                    },
+                                    'r36c17': {
+                                        val: `569`,
+                                        excl_cell: `Q36`,
+                                        formula: `SUM(K36,M36,O36)`
+                                    },
+                                    'r36c19': {
+                                        val: `16,90`,
+                                        excl_cell: `S36`,
+                                        formula: `S18-1.1`
+                                    },
+                                    'r36c20': {
+                                        val: `75,0`,
+                                        excl_cell: `T36`,
+                                        formula: `T18*U36`
+                                    },
+                                    'r36c21': {
+                                        val: `0,882`,
+                                        excl_cell: `U36`,
+                                        formula: ``
+                                    },
+                                    'r36c22': {
+                                        val: `1.268`,
+                                        excl_cell: `V36`,
+                                        formula: `S36*T36`
+                                    },
+                                    'r36c24': {
+                                        val: `80`,
+                                        excl_cell: `X36`,
+                                        formula: ``
+                                    },
+                                    'r36c25': {
+                                        val: `0`,
+                                        excl_cell: `Y36`,
+                                        formula: ``
+                                    },
+                                    'r36c29': {
+                                        val: `292.43050000000005`,
+                                        excl_cell: `AC36`,
+                                        formula: `V36+Y36-J36-Q36+X36`
+                                    },
+                                    'r36c32': {
+                                        val: `69.37239644970414`,
+                                        excl_cell: `AF36`,
+                                        formula: `(AC41+J36+Q36-X36)/S36`
+                                    },
+                                    'r36c33': {
+                                        val: `15.631913333333332`,
+                                        excl_cell: `AG36`,
+                                        formula: `(AC41+J36+Q36-X36)/T36`
+                                    },
+                                    'r36c59': {
+                                        val: ``,
+                                        excl_cell: `AAG36`,
+                                        formula: ``
+                                    },
+                                    'r37c1': {
+                                        val: `So-Braugerste`,
+                                        excl_cell: `A37`,
+                                        formula: ``
+                                    },
+                                    'r37c3': {
+                                        val: `C`,
+                                        excl_cell: `C37`,
+                                        formula: ``
+                                    },
+                                    'r37c10': {
+                                        val: `380.5855391`,
+                                        excl_cell: `J37`,
+                                        formula: `SUM(D37,F37,G37,I37)`
+                                    },
+                                    'r37c17': {
+                                        val: `540`,
+                                        excl_cell: `Q37`,
+                                        formula: `SUM(K37,M37,O37)`
+                                    },
+                                    'r37c19': {
+                                        val: `21,00`,
+                                        excl_cell: `S37`,
+                                        formula: `S18+3`
+                                    },
+                                    'r37c20': {
+                                        val: `55,0`,
+                                        excl_cell: `T37`,
+                                        formula: `T18*U37`
+                                    },
+                                    'r37c21': {
+                                        val: `0,647`,
+                                        excl_cell: `U37`,
+                                        formula: ``
+                                    },
+                                    'r37c22': {
+                                        val: `1.155`,
+                                        excl_cell: `V37`,
+                                        formula: `S37*T37`
+                                    },
+                                    'r37c24': {
+                                        val: `40`,
+                                        excl_cell: `X37`,
+                                        formula: ``
+                                    },
+                                    'r37c25': {
+                                        val: `0`,
+                                        excl_cell: `Y37`,
+                                        formula: ``
+                                    },
+                                    'r37c29': {
+                                        val: `273.98446089999993`,
+                                        excl_cell: `AC37`,
+                                        formula: `V37+Y37-J37-Q37+X37`
+                                    },
+                                    'r37c32': {
+                                        val: `51.34450186190476`,
+                                        excl_cell: `AF37`,
+                                        formula: `(AC41+J37+Q37-X37)/S37`
+                                    },
+                                    'r37c33': {
+                                        val: `19.60604671515592`,
+                                        excl_cell: `AG37`,
+                                        formula: `(AC41+J37+Q37-X37)/T37`
+                                    },
+                                    'r37c59': {
+                                        val: ``,
+                                        excl_cell: `AAG37`,
+                                        formula: ``
+                                    },
+                                    'r38c1': {
+                                        val: `Hybridroggen`,
+                                        excl_cell: `A38`,
+                                        formula: ``
+                                    },
+                                    'r38c3': {
+                                        val: `C`,
+                                        excl_cell: `C38`,
+                                        formula: ``
+                                    },
+                                    'r38c10': {
+                                        val: `528.07505`,
+                                        excl_cell: `J38`,
+                                        formula: `SUM(D38,F38,G38,I38)`
+                                    },
+                                    'r38c17': {
+                                        val: `579`,
+                                        excl_cell: `Q38`,
+                                        formula: `SUM(K38,M38,O38)`
+                                    },
+                                    'r38c19': {
+                                        val: `16,00`,
+                                        excl_cell: `S38`,
+                                        formula: `S27`
+                                    },
+                                    'r38c20': {
+                                        val: `85,0`,
+                                        excl_cell: `T38`,
+                                        formula: `T18*U38`
+                                    },
+                                    'r38c21': {
+                                        val: `1,000`,
+                                        excl_cell: `U38`,
+                                        formula: ``
+                                    },
+                                    'r38c22': {
+                                        val: `1.360`,
+                                        excl_cell: `V38`,
+                                        formula: `S38*T38`
+                                    },
+                                    'r38c24': {
+                                        val: `0`,
+                                        excl_cell: `X38`,
+                                        formula: ``
+                                    },
+                                    'r38c25': {
+                                        val: `0`,
+                                        excl_cell: `Y38`,
+                                        formula: ``
+                                    },
+                                    'r38c29': {
+                                        val: `252.12495`,
+                                        excl_cell: `AC38`,
+                                        formula: `V38+Y38-J38-Q38+X38`
+                                    },
+                                    'r38c32': {
+                                        val: `81.574940625`,
+                                        excl_cell: `AF38`,
+                                        formula: `(AC41+J38+Q38-X38)/S38`
+                                    },
+                                    'r38c33': {
+                                        val: `15.355282941176469`,
+                                        excl_cell: `AG38`,
+                                        formula: `(AC41+J38+Q38-X38)/T38`
+                                    },
+                                    'r38c59': {
+                                        val: ``,
+                                        excl_cell: `AAG38`,
+                                        formula: ``
+                                    },
+                                    'r40c1': {
+                                        val: `Futterhafer`,
+                                        excl_cell: `A40`,
+                                        formula: ``
+                                    },
+                                    'r40c3': {
+                                        val: `C`,
+                                        excl_cell: `C40`,
+                                        formula: `C34`
+                                    },
+                                    'r40c10': {
+                                        val: `337.13749140000004`,
+                                        excl_cell: `J40`,
+                                        formula: `SUM(D40,F40,G40,I40)`
+                                    },
+                                    'r40c17': {
+                                        val: `520`,
+                                        excl_cell: `Q40`,
+                                        formula: `SUM(K40,M40,O40)`
+                                    },
+                                    'r40c19': {
+                                        val: `16,07`,
+                                        excl_cell: `S40`,
+                                        formula: `S18-1.93`
+                                    },
+                                    'r40c20': {
+                                        val: `63,0`,
+                                        excl_cell: `T40`,
+                                        formula: `T18*U40`
+                                    },
+                                    'r40c21': {
+                                        val: `0,741`,
+                                        excl_cell: `U40`,
+                                        formula: ``
+                                    },
+                                    'r40c22': {
+                                        val: `1.012`,
+                                        excl_cell: `V40`,
+                                        formula: `S40*T40`
+                                    },
+                                    'r40c24': {
+                                        val: `80`,
+                                        excl_cell: `X40`,
+                                        formula: ``
+                                    },
+                                    'r40c25': {
+                                        val: `0`,
+                                        excl_cell: `Y40`,
+                                        formula: `Y34`
+                                    },
+                                    'r40c29': {
+                                        val: `234.8564586`,
+                                        excl_cell: `AC40`,
+                                        formula: `V40+Y40-J40-Q40+X40`
+                                    },
+                                    'r40c32': {
+                                        val: `60.64943941505912`,
+                                        excl_cell: `AF40`,
+                                        formula: `(AC41+J40+Q40-X40)/S40`
+                                    },
+                                    'r40c33': {
+                                        val: `15.47410480908153`,
+                                        excl_cell: `AG40`,
+                                        formula: `(AC41+J40+Q40-X40)/T40`
+                                    },
+                                    'r40c59': {
+                                        val: ``,
+                                        excl_cell: `AAG40`,
+                                        formula: ``
+                                    },
+                                    'r41c1': {
+                                        val: `Stoppelweizen B`,
+                                        excl_cell: `A41`,
+                                        formula: ``
+                                    },
+                                    'r41c3': {
+                                        val: `C`,
+                                        excl_cell: `C41`,
+                                        formula: ``
+                                    },
+                                    'r41c10': {
+                                        val: `552.446`,
+                                        excl_cell: `J41`,
+                                        formula: `SUM(D41,F41,G41,I41)`
+                                    },
+                                    'r41c17': {
+                                        val: `600`,
+                                        excl_cell: `Q41`,
+                                        formula: `SUM(K41,M41,O41)`
+                                    },
+                                    'r41c19': {
+                                        val: `18,00`,
+                                        excl_cell: `S41`,
+                                        formula: `S18`
+                                    },
+                                    'r41c20': {
+                                        val: `75,0`,
+                                        excl_cell: `T41`,
+                                        formula: `T18*U41`
+                                    },
+                                    'r41c21': {
+                                        val: `0,882`,
+                                        excl_cell: `U41`,
+                                        formula: ``
+                                    },
+                                    'r41c22': {
+                                        val: `1.350`,
+                                        excl_cell: `V41`,
+                                        formula: `S41*T41`
+                                    },
+                                    'r41c24': {
+                                        val: `0`,
+                                        excl_cell: `X41`,
+                                        formula: ``
+                                    },
+                                    'r41c25': {
+                                        val: `0`,
+                                        excl_cell: `Y41`,
+                                        formula: ``
+                                    },
+                                    'r41c29': {
+                                        val: `197.32399999999996`,
+                                        excl_cell: `AC41`,
+                                        formula: `V41+Y41-J41-Q41+X41`
+                                    },
+                                    'r41c32': {
+                                        val: `75.0`,
+                                        excl_cell: `AF41`,
+                                        formula: `(AC41+J41+Q41-X41)/S41`
+                                    },
+                                    'r41c33': {
+                                        val: `18.0`,
+                                        excl_cell: `AG41`,
+                                        formula: `(AC41+J41+Q41-X41)/T41`
+                                    },
+                                    'r41c59': {
+                                        val: ``,
+                                        excl_cell: `AAG41`,
+                                        formula: ``
+                                    },
+                                    'r42c1': {
+                                        val: `Stoppelweizen C`,
+                                        excl_cell: `A42`,
+                                        formula: ``
+                                    },
+                                    'r42c3': {
+                                        val: `C`,
+                                        excl_cell: `C42`,
+                                        formula: ``
+                                    },
+                                    'r42c10': {
+                                        val: `556.6146926`,
+                                        excl_cell: `J42`,
+                                        formula: `SUM(D42,F42,G42,I42)`
+                                    },
+                                    'r42c17': {
+                                        val: `600`,
+                                        excl_cell: `Q42`,
+                                        formula: `SUM(K42,M42,O42)`
+                                    },
+                                    'r42c19': {
+                                        val: `17,40`,
+                                        excl_cell: `S42`,
+                                        formula: `S23`
+                                    },
+                                    'r42c20': {
+                                        val: `76,7`,
+                                        excl_cell: `T42`,
+                                        formula: `T18*U42`
+                                    },
+                                    'r42c21': {
+                                        val: `0,902`,
+                                        excl_cell: `U42`,
+                                        formula: ``
+                                    },
+                                    'r42c22': {
+                                        val: `1.334`,
+                                        excl_cell: `V42`,
+                                        formula: `S42*T42`
+                                    },
+                                    'r42c24': {
+                                        val: `0`,
+                                        excl_cell: `X42`,
+                                        formula: ``
+                                    },
+                                    'r42c25': {
+                                        val: `0`,
+                                        excl_cell: `Y42`,
+                                        formula: ``
+                                    },
+                                    'r42c29': {
+                                        val: `177.21330739999996`,
+                                        excl_cell: `AC42`,
+                                        formula: `V42+Y42-J42-Q42+X42`
+                                    },
+                                    'r42c32': {
+                                        val: `77.82578693103449`,
+                                        excl_cell: `AF42`,
+                                        formula: `(AC41+J42+Q42-X42)/S42`
+                                    },
+                                    'r42c33': {
+                                        val: `17.662301977305333`,
+                                        excl_cell: `AG42`,
+                                        formula: `(AC41+J42+Q42-X42)/T42`
+                                    },
+                                    'r42c59': {
+                                        val: ``,
+                                        excl_cell: `AAG42`,
+                                        formula: ``
+                                    },
+                                    'r44c1': {
+                                        val: `So-Futtergerste`,
+                                        excl_cell: `A44`,
+                                        formula: ``
+                                    },
+                                    'r44c3': {
+                                        val: `C`,
+                                        excl_cell: `C44`,
+                                        formula: ``
+                                    },
+                                    'r44c10': {
+                                        val: `395.58048260000004`,
+                                        excl_cell: `J44`,
+                                        formula: `SUM(D44,F44,G44,I44)`
+                                    },
+                                    'r44c17': {
+                                        val: `530`,
+                                        excl_cell: `Q44`,
+                                        formula: `SUM(K44,M44,O44)`
+                                    },
+                                    'r44c19': {
+                                        val: `16,90`,
+                                        excl_cell: `S44`,
+                                        formula: `S36`
+                                    },
+                                    'r44c20': {
+                                        val: `58,0`,
+                                        excl_cell: `T44`,
+                                        formula: `T18*U44`
+                                    },
+                                    'r44c21': {
+                                        val: `0,682`,
+                                        excl_cell: `U44`,
+                                        formula: ``
+                                    },
+                                    'r44c22': {
+                                        val: `980`,
+                                        excl_cell: `V44`,
+                                        formula: `S44*T44`
+                                    },
+                                    'r44c24': {
+                                        val: `40`,
+                                        excl_cell: `X44`,
+                                        formula: ``
+                                    },
+                                    'r44c25': {
+                                        val: `0`,
+                                        excl_cell: `Y44`,
+                                        formula: ``
+                                    },
+                                    'r44c29': {
+                                        val: `93.73751739999989`,
+                                        excl_cell: `AC44`,
+                                        formula: `V44+Y44-J44-Q44+X44`
+                                    },
+                                    'r44c32': {
+                                        val: `64.09937766863905`,
+                                        excl_cell: `AF44`,
+                                        formula: `(AC41+J44+Q44-X44)/S44`
+                                    },
+                                    'r44c33': {
+                                        val: `18.68689809556667`,
+                                        excl_cell: `AG44`,
+                                        formula: `(AC41+J44+Q44-X44)/T44`
+                                    },
+                                    'r44c59': {
+                                        val: ``,
+                                        excl_cell: `AAG44`,
+                                        formula: ``
+                                    }
+                                }
+                            }
